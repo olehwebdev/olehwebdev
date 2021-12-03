@@ -3,7 +3,7 @@
 #### I'm a Front-end Developer working in Ukraine ✨
 
 - 🔭 I’m currently working on **personal blog. 😉**
-- 🌱 I’m currently learning **Flutter,  Lua.**
+- 🌱 I’m currently learning **Flutter,  Lua, Remix.**
 - 💬 Ask me about new work opportunity. 😄
 - 🏢 I'm currently working at **@EPAM.**
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.scss`, `.lua`.
