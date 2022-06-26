@@ -2,8 +2,8 @@
 
 #### I'm a Front-end Developer working in Ukraine ✨
 
-- 🔭 I’m currently working on **personal blog and cool Startup. 😉**
-- 🌱 I’m currently learning **Flutter,  Lua, Remix.**
+- 🔭 I’m currently working on **Platform for creating and managing messenger bots 😉**
+- 🌱 I’m currently learning **Flutter, Lua.**
 - 💬 Ask me about new work opportunity. 😄
 - 🏢 I'm currently working at **@SoftServe.**
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.tsx`, `.scss`, `.lua`.
