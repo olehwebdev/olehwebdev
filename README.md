@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-end Developer working in Ukraine ✨
+#### I'm a Software Engineer working in Poland but was born in Ukraine ✨
 
 - 🔭 I’m currently working on **Platform for creating and managing messenger bots 😉**
 - 🌱 I’m currently learning **Flutter, Lua.**
@@ -11,7 +11,14 @@
 
 **🔗 Connect with me**
 
-<a href="https://www.linkedin.com/in/ogusevv" target="blank"><img align="center" src="https://camo.githubusercontent.com/4f52a0822b4b54d54683626b1abd3b4d650688bc46a912999e221c8d2898626f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3238324333343f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d303037374235" alt="ogusev" /></a>
+<div styles="display: flex">
+  <a href="https://www.linkedin.com/in/ogusevv" target="blank"><img align="center" src="https://camo.githubusercontent.com/4f52a0822b4b54d54683626b1abd3b4d650688bc46a912999e221c8d2898626f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3238324333343f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d303037374235" alt="ogusev" /></a>
+
+  <a href="https://www.instagram.com/01eh.dev" target="blank">
+    <img align="center" width="35" src="https://user-images.githubusercontent.com/10379680/211215310-7d696af4-05a9-4572-8085-802570785997.png" alt="01eh.dev" />
+  </a>
+</div>
+
 
 <!-- <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
